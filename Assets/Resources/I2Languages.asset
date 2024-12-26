@@ -1,0 +1,443 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Upgrade Player
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade Player
+      - "Oyuncu Y\xFCkseltmesi"
+      - Spieler Aktualisieren
+      - "Mise \xE0 Niveau du Lecteur"
+      - Actualizar Reproductor
+      - Giocatore di Aggiornamento
+      - Atualizar Jogador
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Upgrade Helper
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade Helper
+      - "Yard\u0131mc\u0131 Y\xFCkseltmesi"
+      - Upgrade-Helfer
+      - "Aide \xE0 la Mise \xE0 Niveau"
+      - "Ayudante de Actualizaci\xF3n"
+      - Aggiornamento Helper
+      - "Auxiliar De Atualiza\xE7\xE3o"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Daily Rewards
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily Rewards
+      - "G\xFCnl\xFCk \xD6d\xFCller"
+      - "T\xE4gliche Belohnungen"
+      - "R\xE9compenses Quotidiennes"
+      - Recompensas Diarias
+      - Ricompense Giornaliere
+      - "Recompensas Di\xE1rias"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Player Upgrade pop up
+      TermType: 0
+      Description: 
+      Languages:
+      - Player Upgrade
+      - "Oyuncu Y\xFCkseltmesi"
+      - Spieler-Upgrade
+      - "Mise \xE0 Niveau du Joueur"
+      - "Actualizaci\xF3n de Jugador"
+      - Aggiornamento Giocatore
+      - "Atualiza\xE7\xE3o Do Jogador"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Employee Upgrade pop up
+      TermType: 0
+      Description: 
+      Languages:
+      - Employee Upgrade
+      - "\xC7al\u0131\u015Fan Y\xFCkseltmesi"
+      - Mitarbeiter-Upgrade
+      - "Surclassement Des Employ\xE9s"
+      - "Actualizaci\xF3n de Empleados"
+      - Aggiornamento dei Dipendenti
+      - "Atualiza\xE7\xE3o Do Funcion\xE1rio"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Capacity
+      TermType: 0
+      Description: 
+      Languages:
+      - Capacity
+      - Kapasite
+      - "Kapazit\xE4t"
+      - "Capacit\xE9"
+      - Capacidad
+      - Capacita
+      - Capacidade
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Collect Speed
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect Speed
+      - "Toplama H\u0131z\u0131"
+      - Geschwindigkeit Sammeln
+      - Vitesse de Collecte
+      - "Velocidad de Recolecci\xF3n"
+      - "Raccogliere Velocit\xE0"
+      - Colete Velocidade
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Speed
+      TermType: 0
+      Description: 
+      Languages:
+      - Speed
+      - "H\u0131z"
+      - Geschwindigkeit
+      - Vitesse
+      - Velocidad
+      - Velocita
+      - Velocidade
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Daily Challenge
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily Challenge
+      - "G\xFCnl\xFCk G\xF6rev"
+      - "T\xE4gliche Herausforderung"
+      - Challenge Quotidien
+      - Reto Diario
+      - Sfida Quotidiana
+      - "Desafio Di\xE1rio"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: COLLECT
+      TermType: 0
+      Description: 
+      Languages:
+      - COLLECT
+      - TOPLA
+      - SAMMELN
+      - RECUEILLIR
+      - RECOGER
+      - RACCOGLIERE
+      - RECOLHER
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Come Tomorrow
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Come
+
+        Tomorrow'
+      - "Yar\u0131n Gel"
+      - "\rKommen\r\nMorgen"
+      - 'Viens
+
+        Demain'
+      - "Venir\r\nMa\xF1ana"
+      - 'Venga
+
+        Domani'
+      - "Venha\r\nAmanh\xE3"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: DAY
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY
+      - "G\xDCN"
+      - TAG
+      - "JOURN\xC9E"
+      - "D\xCDA"
+      - GIORNO
+      - DIA
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Capacity Full
+      TermType: 0
+      Description: 
+      Languages:
+      - Capacity Full
+      - Kapasite Dolu
+      - "Kapazit\xE4t voll"
+      - "Pleine capacit\xE9"
+      - Capacidad Llena
+      - "Capacit\xE0 piena"
+      - Capacidade Cheia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Hire Worker
+      TermType: 0
+      Description: 
+      Languages:
+      - Hire Worker
+      - "\u0130\u015F\xE7i \u0130\u015Fe Al\u0131n"
+      - Arbeiter einstellen
+      - Embaucher un travailleur
+      - Contratar trabajador
+      - Assumi lavoratore
+      - Contratar Trabalhador
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Hire Farmer
+      TermType: 0
+      Description: 
+      Languages:
+      - Hire Farmer
+      - "\xC7ift\xE7i \u0130\u015Fe Al\u0131n"
+      - Bauer anheuern
+      - Embaucher un agriculteur
+      - Contratar a agricultor
+      - Assumi un contadino
+      - Contratar agricultor
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Buy a New Land
+      TermType: 0
+      Description: 
+      Languages:
+      - Buy a New Land
+      - "Yeni Bir Tarla Sat\u0131n Al\u0131n\r"
+      - Kaufen Sie ein neues Land
+      - Acheter un nouveau terrain
+      - "\rComprar una nueva tierra"
+      - Compra una nuova terra
+      - "\rCompre um novo terreno"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Buy a New Markets
+      TermType: 0
+      Description: 
+      Languages:
+      - "Buy a New Market\t"
+      - "Yeni bir Market Sat\u0131n Al"
+      - Kaufen Sie einen neuen Markt
+      - "Acheter un nouveau march\xE9"
+      - Compra un nuevo mercado
+      - Acquista un nuovo mercato
+      - "Compre um novo mercado\r"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Market
+      TermType: 0
+      Description: 
+      Languages:
+      - Market
+      - Pazar
+      - Markt
+      - "March\xE9"
+      - Mercado
+      - Mercato
+      - Mercado
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Empty Your Hands
+      TermType: 0
+      Description: 
+      Languages:
+      - Empty Your Hands
+      - "Ellerini Bo\u015Falt"
+      - "\rLeeren Sie Ihre H\xE4nde"
+      - Videz vos mains
+      - "Vac\xEDa tus manos"
+      - Svuota le mani
+      - "Esvazie suas m\xE3os"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Stay to Sell
+      TermType: 0
+      Description: 
+      Languages:
+      - Stay to Sell
+      - "Satmak i\xE7in Kal"
+      - Bleiben Sie zu verkaufen
+      - Rester pour vendre
+      - "Qu\xE9date para vender"
+      - "\rResta per vendere"
+      - Fique para vender
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Collect Seed Sack
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect Seed Sack
+      - "Tohum \xC7uval\u0131n\u0131 Topla"
+      - Samensack sammeln
+      - "R\xE9cup\xE9rer le sac de graines"
+      - Recoger saco de semillas
+      - Raccogli il sacco di semi
+      - Colete Saco de Sementes
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Go to Land and plant the seed
+      TermType: 0
+      Description: 
+      Languages:
+      - Go to Land and plant the seed
+      - Tarlaya git ve tohumu ek
+      - Gehen Sie an Land und pflanzen Sie den Samen
+      - "Allez \xE0 terre et plantez la graine"
+      - Ve a Land y planta la semilla
+      - Vai a Terra e pianta il seme
+      - "V\xE1 para a Terra e plante a semente"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Gather the finished Plant
+      TermType: 0
+      Description: 
+      Languages:
+      - Gather the finished Plant
+      - "Bitmi\u015F Bitkiyi toplay\u0131n"
+      - Sammle die fertige Pflanze
+      - Rassemblez la plante finie
+      - "Re\xFAne la planta terminada"
+      - Raccogli la pianta finita
+      - "Re\xFAna a planta finalizada"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Go to Market to sell the product
+      TermType: 0
+      Description: 
+      Languages:
+      - Go to Market to sell the product
+      - "\xDCr\xFCn\xFC satmak i\xE7in Markete gidin"
+      - Gehen Sie zum Markt, um das Produkt zu verkaufen
+      - "Aller au march\xE9 pour vendre le produit"
+      - Ir a Market para vender el producto
+      - Vai al mercato per vendere il prodotto
+      - "V\xE1 ao mercado para vender o produto"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Wait for a Customer to buy the product
+      TermType: 0
+      Description: 
+      Languages:
+      - Wait for a Customer to buy the product
+      - "Bir M\xFC\u015Fterinin \xFCr\xFCn\xFC sat\u0131n almas\u0131n\u0131 bekleyin"
+      - Warten Sie, bis ein Kunde das Produkt kauft
+      - "Attendre qu'un client ach\xE8te le produit"
+      - Esperar a que un Cliente compre el producto
+      - Attendi che un Cliente acquisti il prodotto
+      - Esperar que um cliente compre o produto
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Collect the Money and ENJOY !!!
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect the Money and ENJOY !!!
+      - "Paray\u0131 Toplay\u0131n ve KEYF\u0130N\u0130 \xC7IKARIN !!!"
+      - Sammle das Geld und GENIESSE !!!
+      - Collectez l'argent et PROFITEZ !!!
+      - "\xA1Recoge el dinero y DISFRUTA !!!"
+      - Raccogli i soldi e DIVERTITI !!!
+      - Recolha o dinheiro e APROVEITE !!!
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Trash
+      TermType: 0
+      Description: 
+      Languages:
+      - Trash
+      - "\xC7\xF6p"
+      - "M\xFCll"
+      - Poubelle
+      - Basura
+      - Spazzatura
+      - Lixo
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: "Ellerini Bo\u015Falt"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Coming Soon
+      TermType: 0
+      Description: 
+      Languages:
+      - Coming Soon
+      - "\r\xC7ok yak\u0131nda"
+      - "Demn\xE4chst"
+      - "\xC0 venir"
+      - "\rPr\xF3ximamente, en breve, pronto"
+      - Prossimamente
+      - Em breve
+      Flags: 00000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Turkish
+      Code: tr
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: French (France)
+      Code: fr-FR
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    - Name: Italian
+      Code: it
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
